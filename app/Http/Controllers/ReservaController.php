@@ -453,7 +453,7 @@ class ReservaController extends Controller
         $arreglo = $cliente;
         $arreglo1 = $vehiculo;
         $arreglo2 = $reserva;
-        $correos = array("lista_reservas@rentacarpasto.com", $arreglo->email);
+        $correos = array("lista_reservas@franjautos.live", $arreglo->email);
         Mail::to($correos)->send(new ReservaCorreo($arreglo, $arreglo1, $arreglo2));
         return "OK";
     }
