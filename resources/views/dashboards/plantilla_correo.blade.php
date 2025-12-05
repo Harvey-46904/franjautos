@@ -10,7 +10,7 @@
     <font style = "font-family:arial;">
     <div align="center">
         
-        <img src="https://v2.rentacarpasto.com/dash/images/banner-correo.png" alt="Logo" width="100%" height="250">
+        <img src="https://franjautos.live/dash/images/banner-correo.png" alt="Logo" width="100%" height="250">
     </div>
    
     <div align="center"> 
@@ -318,7 +318,7 @@
                             <ul>
                                 <li>Cubre 90%</li>
                                 <li>Deducible el 10% a responsabilidad del cliente deducible: $ 1.000.000</li>
-                                <li><b>Rent A Car Pasto no hace devolución del valor de la reserva, el valor puede ser utilizado para otra reserva.</b></li>
+                                <li><b>Fran J Autos no hace devolución del valor de la reserva, el valor puede ser utilizado para otra reserva.</b></li>
                                <li>Es indispensable dejar un depósito para alquiler de vehículos de 1.000.000 y alquiler de camionetas 1.500.000 como respaldo de seguridad, dinero que será reintegrado hasta 8 días hábiles después de la revisión del vehículo en caso de no presentarse novedades.</li>
                             </ul>
                             <br><br>
@@ -354,7 +354,7 @@
     </div>
 
     <div align="center">
-        RENT A CAR PASTO. Cel: 320 440 8344 www.rentacarpasto.com
+        Fran J Autos. Cel: 320 440 8344
     </div>
 </font>
 </body>

@@ -89,7 +89,7 @@ $data=$data["data"];
     ?>
 <nav class="navbar">
     <a href="javascript:void(0);" class="bars"></a>
-    <div> <a class="navbar-brand" href="{{url('dashboard')}}"><b>RENTACAR PASTO</b></a> </div>
+    <div> <a class="navbar-brand" href="{{url('dashboard')}}"><b>FRANJAUTOS</b></a> </div>
     <div class="icon" id="bell">
         
         <img src="{!! asset('dash/images/bell.png')!!}"> 

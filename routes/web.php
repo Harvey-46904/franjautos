@@ -82,7 +82,10 @@ Route::get('rentacar-index', function () {
 /*Route::get('/', function () {
     return view('neweb.inicio');
 })->name("inicio");*/
-Route::get('/', "InicioController@inicio_web")->name('inicio');
+//Route::get('/', "InicioController@inicio_web")->name('inicio');
+Route::get('/', function () {
+    return redirect('/logins');
+});
 
 
 
